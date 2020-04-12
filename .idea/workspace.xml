@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd00122-bd13-4c75-8fef-2a8a5fda2039" name="Default Changelist" comment="" />
+    <list default="true" id="6dd00122-bd13-4c75-8fef-2a8a5fda2039" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Reinforcement Learning-book bySutton &amp; Barto/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,26 +92,40 @@
       <option name="presentableId" value="Default" />
       <updated>1586702569991</updated>
     </task>
+    <task id="LOCAL-00001" summary="intial commit">
+      <created>1586712301999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586712301999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="197" width="651" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586711632491">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="386" y="197" width="651" height="398" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1586711632491" />
-    <state x="254" y="27" width="914" height="741" key="CommitChangelistDialog2" timestamp="1586702681007">
+    <state x="254" y="27" width="914" height="741" key="CommitChangelistDialog2" timestamp="1586712299901">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="254" y="27" width="914" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1586702681007" />
+    <state x="254" y="27" width="914" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1586712299901" />
     <state x="487" y="139" width="449" height="515" key="FileChooserDialogImpl" timestamp="1586712182424">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="487" y="139" width="449" height="515" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586712182424" />
+    <state x="560" y="295" key="Github.ShareDialog" timestamp="1586712422337">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="560" y="295" key="Github.ShareDialog/67.27.1299.741@67.27.1299.741" timestamp="1586712422337" />
     <state width="1297" height="134" key="GridCell.Tab.0.bottom" timestamp="1586711654025">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -130,5 +146,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="204" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1586704363428" />
+    <state x="310" y="131" width="802" height="530" key="Vcs.Push.Dialog.v2" timestamp="1586712333112">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="310" y="131" width="802" height="530" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1586712333112" />
   </component>
 </project>
